@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
     header.style.position = "relative";
 
     header.innerHTML = `
-        <img src="https://your-image-link.com/icon.png"
+        <img src="https://i.ibb.co/Y7m00G3g/cropped-circle-image.png"
         style="width:65px;height:65px;border-radius:50%;margin-bottom:10px;">
         <h2 style="margin:0;font-size:20px;">Pw Study</h2>
     `;
